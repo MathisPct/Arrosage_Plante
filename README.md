@@ -19,11 +19,11 @@ Durant la première séance, on a réalisé un brainstorming initial :
 
 La maquette et quelques interactions avec le client
 
-![brainstorming initial](./documentation/brainstorming_initial.jpg)
+![brainstorming initial](/documentation/brainstorming_initial.jpg)
 
 Schéma d'interaction client-serveur initial
 
-![diagramme de séquence](./documentation/brainstorming_initial_2.jpg)
+![diagramme de séquence](/documentation/brainstorming_initial_2.jpg)
 
 ## Détail d'une plante
 
